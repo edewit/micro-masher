@@ -1,0 +1,8 @@
+main:
+  fragments:
+  - name: blue
+    script: /blue/fragments.js
+  - name: red
+    script: /red/page.js
+  - name: green
+    script: /green/fragments.js
